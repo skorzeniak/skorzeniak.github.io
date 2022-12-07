@@ -1,4 +1,4 @@
-# portfolioapp
+# app
 
 ## Project setup
 ```
